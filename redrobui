@@ -33,7 +33,7 @@
 
   .app{display:grid;grid-template-columns:264px 1fr;min-height:100vh;}
 
-  /* ===== SIDEBAR ===== */
+ 
   .sidebar{background:var(--ink);color:#F3EFE9;padding:22px 16px;display:flex;flex-direction:column;gap:6px;position:sticky;top:0;height:100vh;}
   .brand{display:flex;align-items:center;gap:10px;padding:4px 8px 22px;}
   .brand .mark{width:30px;height:30px;border-radius:9px;background:linear-gradient(135deg,var(--rob-red),var(--amber));display:flex;align-items:center;justify-content:center;font-family:'Space Grotesk';font-weight:700;font-size:15px;color:#fff;}
